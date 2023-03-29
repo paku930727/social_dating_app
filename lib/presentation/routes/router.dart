@@ -30,3 +30,7 @@ import 'package:social_dating_app/presentation/pages/verification_page/sign_in_v
   ],
 )
 class $AppRouter {}
+
+class MaterialAutoRouter {
+  const MaterialAutoRouter({required String replaceInRouteName, required List<AutoRoute> routes});
+}

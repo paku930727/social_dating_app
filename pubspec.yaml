@@ -31,7 +31,7 @@ dependencies:
     sdk: flutter
   auto_size_text: ^3.0.0
   intl_phone_number_input: ^0.7.0+2
-  auto_route: ^4.0.1
+  auto_route: ^6.0.3
   flow_builder: ^0.0.8
   wave: ^0.2.0
   pin_code_fields: ^7.4.0
@@ -40,30 +40,30 @@ dependencies:
   cached_network_image: ^3.2.1
   salomon_bottom_bar: ^3.3.1
   cupertino_icons: ^1.0.2
-  geolocator: ^8.2.1
+  geolocator: ^9.0.2
   google_maps_flutter: ^2.1.7
   sizer: ^2.0.15
-  flutter_slidable: ^1.3.0
+  flutter_slidable: ^2.0.0
   animated_switch: ^0.0.1
-  formz: ^0.4.1
+  formz: ^0.6.0
   image_picker: ^0.8.5+3
   flutter_image_compress: ^1.1.0
   
   dartz: ^0.10.1
-  flutter_riverpod: ^1.0.4
+  flutter_riverpod: ^2.3.2
   freezed_annotation: ^2.0.3
 
-  firebase_core: ^1.17.0
-  firebase_auth: ^3.3.18
-  cloud_firestore: ^3.1.17
-  firebase_storage: ^10.2.18
+  firebase_core: ^2.8.0
+  firebase_auth: ^4.3.0
+  cloud_firestore: ^4.4.5
+  firebase_storage: ^11.0.16
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   build_runner: ^2.1.11
   freezed: ^2.0.3+1
-  auto_route_generator: ^4.0.0
+  auto_route_generator: ^6.0.1
   flutter_lints: ^2.0.0
 
 # The following section is specific to Flutter packages.
